@@ -1,2 +1,2 @@
 # jamesmurphy
-Contains project folders of open source softwar projects James Murphy has worked on
+Contains project folders of open source software projects James Murphy has worked on
