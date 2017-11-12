@@ -1,0 +1,35 @@
+RECTANGLE (name:rect) (x:0) (y:0) (width:40) (height:25) (area:1000.000000) (fill:E) (draw_amount:0)
+************************************************************************************************
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                      *
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+************************************************************************************************
+
+RECTANGLE (name:rect) (x:0) (y:0) (width:40) (height:25) (area:1000.000000) (fill:E) (draw_amount:1)

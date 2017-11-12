@@ -1,0 +1,35 @@
+HOURGLASS (name:hour) (x:4) (y:4) (height:26) (area:325.000000) (fill:H) (draw_amount:0)
+************************************************************************************************
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+*    HHHHHHHHHHHHHHHHHHHHHHHHH                                                                 *
+*     HHHHHHHHHHHHHHHHHHHHHHH                                                                  *
+*      HHHHHHHHHHHHHHHHHHHHH                                                                   *
+*       HHHHHHHHHHHHHHHHHHH                                                                    *
+*        HHHHHHHHHHHHHHHHH                                                                     *
+*         HHHHHHHHHHHHHHH                                                                      *
+*          HHHHHHHHHHHHH                                                                       *
+*           HHHHHHHHHHH                                                                        *
+*            HHHHHHHHH                                                                         *
+*             HHHHHHH                                                                          *
+*              HHHHH                                                                           *
+*               HHH                                                                            *
+*                H                                                                             *
+*                H                                                                             *
+*               HHH                                                                            *
+*              HHHHH                                                                           *
+*             HHHHHHH                                                                          *
+*            HHHHHHHHH                                                                         *
+*           HHHHHHHHHHH                                                                        *
+*          HHHHHHHHHHHHH                                                                       *
+*         HHHHHHHHHHHHHHH                                                                      *
+*        HHHHHHHHHHHHHHHHH                                                                     *
+*       HHHHHHHHHHHHHHHHHHH                                                                    *
+*      HHHHHHHHHHHHHHHHHHHHH                                                                   *
+*     HHHHHHHHHHHHHHHHHHHHHHH                                                                  *
+*    HHHHHHHHHHHHHHHHHHHHHHHHH                                                                 *
+************************************************************************************************
+
+HOURGLASS (name:hour) (x:4) (y:4) (height:26) (area:325.000000) (fill:H) (draw_amount:1)

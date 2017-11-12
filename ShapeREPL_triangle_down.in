@@ -1,0 +1,5 @@
+rm $2/*.class
+javac $2/*.java
+printf "DEFINE tri TRIANGLE 25 DOWN \"E\" 5 5\nDUMP tri\nDRAW tri\nDUMP tri\n" | timeout 8 java -cp $2 ShapeREPL
+rm $2/*.class
+

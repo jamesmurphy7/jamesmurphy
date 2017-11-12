@@ -1,0 +1,35 @@
+PARALLELOGRAM (name:par) (x:30) (y:5) (width:20) (height:20) (area:400.000000) (fill:O) (draw_amount:0)
+************************************************************************************************
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+*                                                 OOOOOOOOOOOOOOOOOOOO                         *
+*                                                OOOOOOOOOOOOOOOOOOOO                          *
+*                                               OOOOOOOOOOOOOOOOOOOO                           *
+*                                              OOOOOOOOOOOOOOOOOOOO                            *
+*                                             OOOOOOOOOOOOOOOOOOOO                             *
+*                                            OOOOOOOOOOOOOOOOOOOO                              *
+*                                           OOOOOOOOOOOOOOOOOOOO                               *
+*                                          OOOOOOOOOOOOOOOOOOOO                                *
+*                                         OOOOOOOOOOOOOOOOOOOO                                 *
+*                                        OOOOOOOOOOOOOOOOOOOO                                  *
+*                                       OOOOOOOOOOOOOOOOOOOO                                   *
+*                                      OOOOOOOOOOOOOOOOOOOO                                    *
+*                                     OOOOOOOOOOOOOOOOOOOO                                     *
+*                                    OOOOOOOOOOOOOOOOOOOO                                      *
+*                                   OOOOOOOOOOOOOOOOOOOO                                       *
+*                                  OOOOOOOOOOOOOOOOOOOO                                        *
+*                                 OOOOOOOOOOOOOOOOOOOO                                         *
+*                                OOOOOOOOOOOOOOOOOOOO                                          *
+*                               OOOOOOOOOOOOOOOOOOOO                                           *
+*                              OOOOOOOOOOOOOOOOOOOO                                            *
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+************************************************************************************************
+
+PARALLELOGRAM (name:par) (x:30) (y:5) (width:20) (height:20) (area:400.000000) (fill:O) (draw_amount:1)

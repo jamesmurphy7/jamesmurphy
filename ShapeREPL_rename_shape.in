@@ -1,0 +1,5 @@
+rm $2/*.class
+javac $2/*.java
+printf "DEFINE x RECTANGLE 4 4 \"O\" 0 0\nDUMP x\nDRAW x\nDEFINE x TRIANGLE 10 DOWN \"0\" 5 5\nDUMP x\nDRAW x\nDUMP x\n" | timeout 8 java -cp $2 ShapeREPL
+rm $2/*.class
+

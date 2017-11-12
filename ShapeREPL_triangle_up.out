@@ -1,0 +1,35 @@
+TRIANGLE (name:tri) (x:5) (y:5) (height:25) (area:612.500000) (direction:UP) (fill:E) (draw_amount:0)
+************************************************************************************************
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+*                                                                                              *
+*                             E                                                                *
+*                            EEE                                                               *
+*                           EEEEE                                                              *
+*                          EEEEEEE                                                             *
+*                         EEEEEEEEE                                                            *
+*                        EEEEEEEEEEE                                                           *
+*                       EEEEEEEEEEEEE                                                          *
+*                      EEEEEEEEEEEEEEE                                                         *
+*                     EEEEEEEEEEEEEEEEE                                                        *
+*                    EEEEEEEEEEEEEEEEEEE                                                       *
+*                   EEEEEEEEEEEEEEEEEEEEE                                                      *
+*                  EEEEEEEEEEEEEEEEEEEEEEE                                                     *
+*                 EEEEEEEEEEEEEEEEEEEEEEEEE                                                    *
+*                EEEEEEEEEEEEEEEEEEEEEEEEEEE                                                   *
+*               EEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                  *
+*              EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                 *
+*             EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                                *
+*            EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                               *
+*           EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                              *
+*          EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                             *
+*         EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                            *
+*        EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                           *
+*       EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                          *
+*      EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                         *
+*     EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE                                        *
+************************************************************************************************
+
+TRIANGLE (name:tri) (x:5) (y:5) (height:25) (area:612.500000) (direction:UP) (fill:E) (draw_amount:1)

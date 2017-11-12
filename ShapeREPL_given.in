@@ -1,0 +1,5 @@
+rm $2/*.class
+javac $2/*.java
+timeout 8 java -cp $2 ShapeREPL < $1/given_input
+rm $2/*.class
+
